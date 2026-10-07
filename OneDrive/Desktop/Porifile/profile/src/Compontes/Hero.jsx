@@ -16,8 +16,8 @@ function Hero() {
         {/* Left Side */}
         <div className="hero-left">
           <div className="hero-badge fade-in">
-            <span className="badge-icon">👋</span>
-            Welcome VISHAL TRADING ACADEMY
+            
+            VISHAL FX
           </div>
           
           <div className="profile-image fade-in-1">
