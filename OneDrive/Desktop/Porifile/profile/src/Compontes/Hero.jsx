@@ -31,7 +31,7 @@ function Hero() {
           </div>
           
           <h1 className="hero-title fade-in-2">VISHAL</h1>
-          
+          <p>Follow Media Account & Telegram Channel Free SIngle & Update</p>
          
         </div>
 
